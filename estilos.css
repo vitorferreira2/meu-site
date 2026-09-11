@@ -25,20 +25,20 @@ body {
   display: flex; 
   flex-direction: column; 
   min-height: 100vh; 
-  background-color: #000000; 
+  background-color: #f313bb; 
 } 
 main { 
   flex: 1; 
 } 
 
 footer { 
-  background-color: #ebebeb; 
+  background-color: #fc00005e; 
   padding: 15px 25px; 
-  color: #fff; 
+  color: #0016e0; 
 } 
 
 h1 { 
-  color: #fff; 
+  color: #42e900; 
   font-size: 24px; 
 } 
 
